@@ -173,3 +173,45 @@ DSLO is the discipline of constructing deterministic semantic substrates that pr
 ### 12. Canonical Field Definition
 > DSLO is the substrate-level discipline for deterministic meaning preservation.  
 > It encodes domain invariants into machine-readable semantic layers, orchestrates agents under invariant governance, and ensures semantic stability across system evolution.
+
+---
+
+## Cross‑References
+
+### Glossary
+See the DSLO glossary for definitions of core semantic terms:
+
+- [Invariants](glossary/invariants.md)
+- [Substrate](glossary/substrate.md)
+- [Orchestration](glossary/orchestration.md)
+- [Semantic Stability](glossary/semantic-stability.md)
+- [Drift](glossary/drift.md)
+
+These documents provide the semantic vocabulary used throughout the DSLO field definition.
+
+### Specification
+The DSLO specification describes the deterministic semantic substrate and its architectural layers:
+
+- [DSLO Specification v0.1](spec/dslo-spec-v0.1.md)
+- [Semantic Invariant Layer](spec/semantic-invariant-layer.md)
+- [Substrate Logic Layer](spec/substrate-logic-layer.md)
+- [Orchestration Layer](spec/orchestration-layer.md)
+- [Verification Layer](spec/verification-layer.md)
+
+These documents define the structural and execution semantics referenced in this field definition.
+
+### References
+For related work in semantic governance, invariant-driven design, drift prevention, and deterministic execution, see:
+
+- [Reference Index](references.md)
+
+### License
+This field definition is part of the DSLO public layer and is licensed under:
+
+- [DSLO Open Reference License v1.0](LICENSE)
+
+### Repository Overview
+For a complete overview of the repository structure, see:
+
+- [README.md](README.md)
+
