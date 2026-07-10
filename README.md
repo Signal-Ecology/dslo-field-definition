@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21300261.svg)](https://doi.org/10.5281/zenodo.21300261)
+
+
 # DSLO Field Definition
 
 This repository contains the canonical field definition for **Deterministic Semantic Layered Orchestration (DSLO)**, a substrate-level discipline within Meaning Physics and Semantic Substrate Engineering.
