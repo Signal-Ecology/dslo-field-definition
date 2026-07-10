@@ -215,3 +215,7 @@ For a complete overview of the repository structure, see:
 
 - [README.md](README.md)
 
+### DOI
+This field definition is archived at Zenodo under DOI:  
+**10.5281/zenodo.21300261**
+
