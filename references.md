@@ -107,3 +107,7 @@ Slowicki, Donald. Deterministic Semantic Layered Orchestration (DSLO): Field Def
 8. License Notice
 This reference index is part of the DSLO public layer and is licensed under the DSLO Open Reference License v1.0.
 See: LICENSE
+
+### DOI Reference
+This field definition is archived at Zenodo:  
+**10.5281/zenodo.21300261**
