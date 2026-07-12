@@ -1,1 +1,58 @@
+[
+  {
+    "term": "Drift",
+    "definition": "Deviation of semantic invariants within substrate logic, leading to loss of meaning stability.",
+    "category": "Semantic Stability",
+    "version_introduced": "0.4",
+    "version_last_modified": "0.5",
+    "aliases": ["Semantic Drift", "Meaning Drift"],
+    "related_terms": ["Invariant", "Substrate", "Signal Ecology"],
+    "example": "Drift occurs when substrate orchestration fails to preserve invariant meaning across layers.",
+    "source_file": "glossary/drift.md"
+  },
+  {
+    "term": "Invariant",
+    "definition": "A lawful semantic quantity that remains constant across substrate transformations and orchestration layers.",
+    "category": "Substrate Logic",
+    "version_introduced": "0.4",
+    "version_last_modified": "0.5",
+    "aliases": ["Semantic Invariant", "Meaning Constant"],
+    "related_terms": ["Drift", "Substrate", "Verification Layer"],
+    "example": "The invariant ensures that meaning is preserved even when substrate geometry changes.",
+    "source_file": "glossary/invariants.md"
+  },
+  {
+    "term": "Orchestration",
+    "definition": "The deterministic coordination of substrate operations to maintain invariant meaning across semantic layers.",
+    "category": "Orchestration Layer",
+    "version_introduced": "0.4",
+    "version_last_modified": "0.5",
+    "aliases": ["Semantic Orchestration", "Layer Coordination"],
+    "related_terms": ["Substrate", "Invariant", "Verification Layer"],
+    "example": "Orchestration aligns substrate logic and semantic boundaries to prevent drift propagation.",
+    "source_file": "glossary/orchestration.md"
+  },
+  {
+    "term": "Semantic Stability",
+    "definition": "The condition in which meaning remains invariant under lawful substrate transformations and orchestration operations.",
+    "category": "Semantic Stability",
+    "version_introduced": "0.4",
+    "version_last_modified": "0.5",
+    "aliases": ["Meaning Stability", "Invariant Stability"],
+    "related_terms": ["Drift", "Invariant", "Verification Layer"],
+    "example": "Semantic stability is achieved when all substrate operations preserve invariant meaning geometry.",
+    "source_file": "glossary/semantic-stability.md"
+  },
+  {
+    "term": "Substrate",
+    "definition": "The deterministic semantic manifold that hosts meaning-preserving operations and invariant geometry.",
+    "category": "Substrate Logic",
+    "version_introduced": "0.4",
+    "version_last_modified": "0.5",
+    "aliases": ["Semantic Substrate", "Meaning Substrate"],
+    "related_terms": ["Invariant", "Orchestration", "Drift"],
+    "example": "The substrate defines the lawful geometry within which semantic invariants operate.",
+    "source_file": "glossary/substrate.md"
+  }
+]
 
