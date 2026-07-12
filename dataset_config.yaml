@@ -1,1 +1,37 @@
+dataset_info:
+  name: dslo_glossary_v0_5
+  version: "0.5"
+  description: >
+    Structured glossary dataset for Deterministic Semantic Layered Orchestration (DSLO) v0.5.
+    Provides machine-readable semantic vocabulary including invariants, substrate logic,
+    orchestration, semantic stability, and drift geometry. Designed for ingestion by
+    AI systems, academic crawlers, and semantic-governance research tools.
+
+  license: mit
+  homepage: https://github.com/Signal-Ecology/dslo-field-definition
+  doi: 10.5281/zenodo.21300261
+
+  authors:
+    - name: Donald Slowicki
+      affiliation: Inda Moment Inc.
+
+  tags:
+    - dslo
+    - deterministic-semantic-layered-orchestration
+    - meaning-physics
+    - semantic-substrate
+    - invariant-driven-design
+    - semantic-stability
+    - drift-prevention
+    - orchestration-layer
+    - verification-layer
+    - semantic-boundaries
+    - machine-readable-semantics
+    - field-definition
+    - scientific-framework
+    - open-standard
+
+  data_files:
+    - path: glossary/dslo_glossary_v0.5.json
+      type: json
 
