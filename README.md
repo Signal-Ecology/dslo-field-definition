@@ -45,7 +45,7 @@ These documents describe the deterministic semantic substrate and its invariant-
 
 ## Purpose
 
-This repository defines the **public v0.4 layer** of DSLO:  
+This repository defines the **public v0.5 layer** of DSLO:  
 a deterministic, machine-readable, meaning-preserving architectural discipline designed to eliminate semantic drift in AI‑accelerated systems.
 
 For proprietary substrate logic, runtime implementations, and commercial invariants, see the private DSLO operational layer (not included here).
