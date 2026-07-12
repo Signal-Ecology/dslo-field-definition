@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use DSLO v0.5 or the DSLO Field Definition repository, please cite it using the metadata below."
+title: "Deterministic Semantic Layered Orchestration (DSLO) — Field Definition v0.5"
+abstract: >
+  DSLO (Deterministic Semantic Layered Orchestration) is a substrate-level
+  discipline within Meaning Physics and Semantic Substrate Engineering.
+  This repository contains the canonical public field definition for DSLO v0.5,
+  including the semantic vocabulary, invariant model, substrate logic layer,
+  orchestration layer, verification layer, and drift geometry. It defines the
+  architectural grammar for meaning-preserving systems in AI-accelerated
+  environments.
+
+authors:
+  - family-names: "Slowicki"
+    given-names: "Donald"
+    orcid: "https://orcid.org/0009-0009-2248-8434"
+
+version: "0.5"
+date-released: "2026-07-10"
+doi: "10.5281/zenodo.21300261"
+url: "https://github.com/Signal-Ecology/dslo-field-definition"
+
+repository-code: "https://github.com/Signal-Ecology/dslo-field-definition"
+license: "MIT"
+keywords:
+  - DSLO
+  - Deterministic Semantic Layered Orchestration
+  - Meaning Physics
+  - Semantic Substrate Engineering
+  - Signal Ecology
+  - Semantic Stability
+  - Drift Geometry
+  - Substrate Logic
+  - Invariant Design
+
+preferred-citation:
+  type: article
+  title: "Deterministic Semantic Layered Orchestration (DSLO): Field Definition v0.5"
+  authors:
+    - family-names: "Slowicki"
+      given-names: "Donald"
+  journal: "DSLO Public Field Definition"
+  doi: "10.5281/zenodo.21300261"
+  year: "2026"
+  url: "https://zenodo.org/records/21300261"
