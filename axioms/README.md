@@ -9,6 +9,7 @@ Domain Physics — The Nine Axioms of Meaning‑Containers
 Runtime Physics — The Four DSLO Axioms of Artificial Cognition
 
 Files in this directory
+
 axioms.md — Human‑readable canonical version
 
 axioms.json — Structured machine‑readable version
