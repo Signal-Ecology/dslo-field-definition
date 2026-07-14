@@ -1,1 +1,153 @@
+{
+  "version": "0.5",
+  "layers": {
+    "field_physics": {
+      "title": "The Nine Invariants of Signal Ecology",
+      "description": "Universal laws governing all signal-bearing systems. These invariants define the minimal structure required for any system — biological, institutional, or artificial — to maintain coherence under load.",
+      "invariants": [
+        {
+          "id": 1,
+          "name": "Boundary Integrity",
+          "definition": "Systems remain coherent only when they maintain a stable distinction between inside and outside. Boundaries protect identity and prevent uncontrolled signal intrusion."
+        },
+        {
+          "id": 2,
+          "name": "Temporal Rhythm",
+          "definition": "Coherence requires a predictable rhythm for sensing, regeneration, and action. When rhythm fragments, drift accelerates."
+        },
+        {
+          "id": 3,
+          "name": "Causal Legibility",
+          "definition": "Systems must be able to trace causes to effects. When causal structure becomes opaque, interpretation detaches from reality."
+        },
+        {
+          "id": 4,
+          "name": "Role Coherence",
+          "definition": "Roles must remain stable and predictable. Role drift produces contradictory behavior and identity fragmentation."
+        },
+        {
+          "id": 5,
+          "name": "Signal–Substrate Coupling",
+          "definition": "Signals must remain anchored to the substrate they represent. Decoupled signals become self-referential and unstable."
+        },
+        {
+          "id": 6,
+          "name": "Regeneration Capacity",
+          "definition": "Systems require slack to restore structure faster than it is consumed. When regeneration fails, collapse becomes inevitable."
+        },
+        {
+          "id": 7,
+          "name": "Drift Resistance",
+          "definition": "Internal geometry must resist curvature-induced drift. If drift exceeds tolerance, coherence cannot be restored."
+        },
+        {
+          "id": 8,
+          "name": "Lawful Transitions",
+          "definition": "State changes must preserve invariants. Unconstrained transitions generate collapse-inducing behavior."
+        },
+        {
+          "id": 9,
+          "name": "Fallback Geometry",
+          "definition": "Systems need deterministic fallback paths when coherence degrades. Fallback prevents runaway drift and irreversible failure."
+        }
+      ]
+    },
+    "domain_physics": {
+      "title": "The Nine Axioms of Meaning-Containers",
+      "description": "Laws governing human meaning systems across deep time. These axioms govern the behavior of meaning-containers — material, spatial, procedural, and institutional structures that regulate behavior.",
+      "axioms": [
+        {
+          "id": 1,
+          "name": "Energetic Cost",
+          "definition": "Meaning-containers must reduce the energy required for coordination. High-cost containers collapse under scale."
+        },
+        {
+          "id": 2,
+          "name": "Transmission Fidelity",
+          "definition": "Meaning must survive replication across generations. Low fidelity produces drift and fragmentation."
+        },
+        {
+          "id": 3,
+          "name": "Material Anchoring",
+          "definition": "Containers require physical or ecological grounding to resist mutation. Purely symbolic containers drift fastest."
+        },
+        {
+          "id": 4,
+          "name": "Scalar Stress",
+          "definition": "As containers scale, their stability decreases unless reinforced by invariants. Scale amplifies drift."
+        },
+        {
+          "id": 5,
+          "name": "Container–World Alignment",
+          "definition": "Meaning collapses when containers no longer match lived reality. Misalignment produces behavioral incoherence."
+        },
+        {
+          "id": 6,
+          "name": "Drift Envelope",
+          "definition": "Every system has a maximum drift it can absorb before coherence fails. Exceeding this envelope triggers phase transition."
+        },
+        {
+          "id": 7,
+          "name": "Corrective Capacity",
+          "definition": "Systems require mechanisms to counteract drift — friction, ritual, recoupling. Without correction, drift compounds."
+        },
+        {
+          "id": 8,
+          "name": "Abstraction Decoupling",
+          "definition": "Symbolic systems naturally drift away from their physical referents. Digital and bureaucratic containers accelerate this decoupling, forcing systemic instability."
+        },
+        {
+          "id": 9,
+          "name": "Institutional Collapse",
+          "definition": "When cumulative drift breaches the drift envelope, meaning-containers undergo sudden, irreversible structural failure. This threshold is predictable and measurable."
+        }
+      ]
+    },
+    "runtime_physics": {
+      "title": "The DSLO Axioms of Artificial Cognition",
+      "description": "Laws governing substrate-native computation and coherent machine behavior.",
+      "axioms": [
+        {
+          "id": 0,
+          "name": "Universality of Signals (Interface Axiom)",
+          "mapping": "ΦS : ΣS → D",
+          "projection": "ΦS(σ) = (x, τ, o, c, κ)",
+          "components": {
+            "x": "state — localized, moment-bound position",
+            "τ": "transition — lawful movement between states",
+            "o": "orientation — contextual routing and alignment",
+            "c": "correction — invariant-preserving fallback structure",
+            "κ": "meaning status — meaning-bearing, synthetic, drifted, stabilized"
+          },
+          "definition": "Any system capable of emitting, transforming, or receiving signals can be projected into the DSLO domain through a total, substrate-independent mapping. This establishes DSLO as a universal signal interface."
+        },
+        {
+          "id": 1,
+          "name": "Identity Continuity",
+          "definition": "A system must preserve identity across transitions and perturbations. Identity drift produces unpredictable behavior."
+        },
+        {
+          "id": 2,
+          "name": "Load-Bounded Stability",
+          "definition": "Planning and action must remain within the system’s load tolerance. Overload induces collapse."
+        },
+        {
+          "id": 3,
+          "name": "Spatial Legality (External Geometry)",
+          "definition": "Systems must obey lawful transitions in external geometry. Illegal transitions break coherence with the world."
+        },
+        {
+          "id": 4,
+          "name": "Lawful Transitions (Moment Geometry)",
+          "definition": "Every state change must preserve invariants and maintain bounded mutation velocity. Unlawful transitions generate drift."
+        }
+      ]
+    }
+  },
+  "unified_structure": {
+    "signal_ecology": "Field Physics (Nine Invariants)",
+    "meaning_geometry": "Domain Physics (Nine Meaning-Container Axioms)",
+    "dslo_substrate_architecture": "Runtime Physics (Four DSLO Axioms)"
+  }
+}
 
